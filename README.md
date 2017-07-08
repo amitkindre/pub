@@ -1,2 +1,2 @@
 # pub
-Pubnub with handled execptions
+Pubnub with handled exceptions
